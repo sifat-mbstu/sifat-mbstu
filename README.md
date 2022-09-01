@@ -15,9 +15,9 @@
 ### Languages and Tools :computer:
 
 [![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu) [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/sifat-mbstu) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu) [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/sifat-mbstu) 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/sifat-mbstu) [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/sifat-mbstu) 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu)
 
