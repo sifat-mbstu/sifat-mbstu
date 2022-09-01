@@ -28,7 +28,7 @@
 
 ### Reach out to me 👓
 
-|  <a href="https://sifat-mbstu.github.io/"><img src="https://icon-library.com/icon/computer-programmer-icon-2.html.html" width="150px" height="150px" /></a> |
+|  <a href="https://sifat-mbstu.github.io/"><img src="https://icon-library.com/icon/computer-programmer-icon-2.html" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Sifatul Islam](https://www.researchgate.net/profile/Sifatul-Islam-2)**                                                                                |
 |<a href="https://github.com/sifat-mbstu"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/sifatul"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/sifatul-islam-7a692997/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
