@@ -14,6 +14,7 @@
 
 ### Languages and Tools :computer:
 
+[![Swift](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu) [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/sifat-mbstu) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu) 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/sifat-mbstu) [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/sifat-mbstu)](https://github.com/sifat-mbstu) 
